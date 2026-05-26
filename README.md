@@ -12,7 +12,7 @@ My nickname is For1moc.
 
 🚩 I'm a CTF WEB player in the Scr1w team, an awesome security team.
 
-🔍 I'm interested in software security, currently studying static analysis.
+🔍 I'm interested in software security.
 
 📧 You can contact me at forimoc2021 [AT] gmail.com.
 
